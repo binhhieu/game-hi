@@ -45,12 +45,10 @@ article span, article span > a {
   color: white;
 }
 @media only screen and (max-width:46.1875em){
-  .header-name{
-    flex-direction: column-reverse;
-    width: 100%;
-  }
   #canvas1{
     width: 100%;
+
   }
 
 }
+
