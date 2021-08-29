@@ -24,7 +24,13 @@ body {
     background: linear-gradient(to bottom,  #fca5f1, #b5ffff);
     
 }
-
+.audio{
+  float: left;top:25px;left:-310px;position: absolute
+}
+.hh{
+  width: 400px;
+  margin-top: 60px;
+}
 article {
   font-family: monospace;
   color: white;
@@ -55,5 +61,9 @@ article span, article span > a {
   .header-name{
     font-size: 10px;
     top: 11px
+  }
+  .hh{
+    width: 40%;
+    height: 113px;
   }
 }
