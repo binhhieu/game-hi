@@ -47,8 +47,13 @@ article span, article span > a {
 @media only screen and (max-width:46.1875em){
   #canvas1{
     width: 100%;
-
+    height: 250px;
   }
-
+  #time{
+    font-size: 5px;
+  }
+  .header-name{
+    font-size: 10px;
+    top: 11px
+  }
 }
-
